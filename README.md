@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi visitor 👋
+<h2 align="center">Visit my own site:
+https://webody.com.br/ </h2>
 
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/151586396?v=4" alt="Bruno Prates"  />
@@ -13,7 +15,7 @@
   <a target="_blank" href="https://twitter.com/GenovaPrates">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a target="_blank" href="https://www.instagram.com/pratesgbruno_">
+  <a target="_blank" href="https://www.instagram.com/pratesgb_">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
